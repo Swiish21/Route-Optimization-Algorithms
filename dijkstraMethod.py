@@ -1,4 +1,4 @@
-import heapq
+import heapq #importing necessary a library we'll use
 
 def dijkstra(graph, start):
     # Priority queue to store (cost, node)
